@@ -24,6 +24,7 @@ Before posting a merge request, please ensure you've:
 For the sake of documenting bugfixes, when posting a merge request, please ensure you detail any changes by:
 - Describing what was changed (in the head)
 - How the changes where made (in the 'extended description')
+  - If the merge request only adds new code and does not edit any pre-existing code, feel free to only fill the head.
 
 ### How do I compile and run this?
 There are no special steps to building and compiling the code, simply press 'run' in <abbr title="Visual Studio">VS</abbr>.<br>
