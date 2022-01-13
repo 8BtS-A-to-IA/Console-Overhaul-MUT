@@ -32,7 +32,7 @@ If you do not have the [export helper (todo)]() installed; simply press 'Ok' if 
 If you have the exporter helper tool setup correctly; after pressing 'run' in VS, simply start <abbr title="Risk of Rain 2">RoR2</abbr>.
 
 ### How can I help without any programming 'know-how'?
-Simply install the mod/modpack from [the modpacks main page](https://github.com/8BtS-A-to-IA/Console-Overhaul) and play. If you encounter any issues make sure to log it and provide as much relevant detail as possible in the relevant mods' `issue` page--or the main page if you don't know which mod is the problem--after checking if the same issue has not already been encountered, you can use the [formatting guide (todo)]() to help with this.<br>
+Simply install the mod/modpack from [the modpacks main page](https://github.com/8BtS-A-to-IA/Console-Overhaul) and play. If you encounter any issues make sure to log it and provide as much relevant detail as possible in the relevant mods' `issue` page--or the main page if you don't know which mod is the problem--after checking if the same issue has not already been encountered, you can use the formatting guide to help with this.<br>
 Don't worry about if you predict the wrong mod as the cause, it's more important to just have the report out there.
 
 ## Changelog:
