@@ -11,8 +11,6 @@ While the mod was both specifically created so that it is possible to *fetch any
 ## Usage
 The method provided will allow you, the modder, easy access to all this data, there is no additional requirements to adding the mod to your own - all you need is for the user to have T.M.I. installed and for you to use `List<CharacterBody> bodies = GetPlayerBodiesByName("query here")` somewhere. You can read how to use the query system [here (todo)]().
 
-## due to an issue with uploading files directly into the repo via the github website, the files have been temporarily placed into a .zip file.
-
 ## development
 ### How can I develop for this project?
 After cloning the repository and ensuring you have any version of [VS 2017/2019](https://visualstudio.microsoft.com/) installed, you should be able to simply open the `.snl` file to open the project in VS.
